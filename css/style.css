@@ -1075,7 +1075,7 @@ border-bottom:2px  #db2d2e solid ;
 }
 
 .car__item__pic__slider img {
-	border-radius: 2px 2px 0 0;
+	border-radius: 15px 15px 0 0;
 }
 
 .car__item__pic__slider.owl-carousel .owl-dots {
