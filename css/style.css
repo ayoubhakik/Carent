@@ -1,12 +1,4 @@
-.blueBtn{
-	background-color: #457B9D;
-	border-color: #457B9D;
-}
-.blueBtn:hover{
-	background-color: #A8DADC;
-	border-color: #A8DADC;
 
-}
 .hero{
 	position: relative;
   background-size: cover; }
@@ -137,7 +129,7 @@ ol {
 }
 
 .spad {
-	padding-top: 100px;
+	padding-top: 20px;
 	padding-bottom: 20px;
 }
 
@@ -389,14 +381,13 @@ ol {
 }
 .header__logo  a{
 	color: black;
-	font-size: 29px;
+	font-size: 26px;
 padding: 10px;
 border-bottom:2px  #db2d2e solid ;
 }
 .header__logo a:hover
 {
 	color: #db2d2e;
-	font-size: 34px;
 	border-bottom:3px black solid ;
 
 }
@@ -3731,4 +3722,38 @@ border-bottom:2px  #db2d2e solid ;
 		font-size: 24px;
 		width: 100%;
 	}
+}
+.searchbar{
+	border-radius: 30px;
+	padding: 10px;
+}
+
+.blueBtn{
+	
+	
+	background-color: #457B9D;
+	border-color: #457B9D;
+}
+.blueBtn:hover{
+	background-color: #A8DADC;
+	border-color: #A8DADC;
+
+
+}
+.searchCommons{
+	padding: 8px;
+	height: 50px;
+	justify-content: center;
+	align-items: center;
+	border-radius: 20px;
+	width: 160px;
+	border: 0px;
+
+}
+.searchCommons:hover{
+	background-color: #A8DADC;
+	border-color: #A8DADC;
+}
+.contactBtn{
+	background-color: green;
 }
